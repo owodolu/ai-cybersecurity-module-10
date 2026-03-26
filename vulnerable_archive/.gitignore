@@ -5,6 +5,11 @@ build/
 dist/
 wheels/
 *.egg-info
+osv-scanner.exe
+osv_results.txt
+semgrep_results.txt
+trufflehog_results.txt
+.env
 
 # Virtual environments
 .venv
